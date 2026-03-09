@@ -1,0 +1,9 @@
+venv/
+.env
+data/vectorstore/
+data/memory_vectorstore/
+data/sessions/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
